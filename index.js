@@ -1,5 +1,6 @@
 //Prettier
 //commnand prompt change
+//Using manual search directory
 function main_function_jquery (){
 
     function activate_modal(){
